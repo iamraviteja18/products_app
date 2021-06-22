@@ -1,0 +1,17 @@
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/service/ReviewsService.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/dal/ReviewsDAOJpaImpl.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/dal/ProductDAO.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/domain/Product.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/domain/Reviews.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/dal/ProductDAOInMemImpl.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/dal/ReviewsDAO.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/web/ProductController.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/ProductsAppApplication.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/ui/ProductConsoleUI.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/dal/ProductDAOJpaImpl.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/service/ProductServiceImpl.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/dal/ProductRepository.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/service/ReviewsServiceImpl.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/service/ProductService.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/web/ReviewsController.java
+/Users/ar-ravite.rajavarapu/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/products-app/src/main/java/com/rakuten/training/ProductAppConfiguration.java
